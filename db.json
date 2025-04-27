@@ -8,17 +8,17 @@
     {
             "id": 101,
             "username": "Python Basics",
-            "rs": "199"
+            "rs": "Free"
         },
         {
             "id": 102,
             "username": "Python Bootcamp",
-            "rs": "199"
+            "rs": "Free"
         },
         {
             "id": 103,
             "username": "Chatbot Development",
-            "rs": "499"
+            "rs": "199"
         }
   ]
 }
