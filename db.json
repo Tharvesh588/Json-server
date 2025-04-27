@@ -1,0 +1,24 @@
+{
+  "profile" : {
+    "user": "Tharvesh Muhaideen A",
+        "phone": "(+91) 9994021042",
+        "profileImg": "https://avatars.githubusercontent.com/u/114087990?v=4"
+  },
+  "Course": [
+    {
+            "id": 101,
+            "username": "Python Basics",
+            "rs": "199"
+        },
+        {
+            "id": 102,
+            "username": "Python Bootcamp",
+            "rs": "199"
+        },
+        {
+            "id": 103,
+            "username": "Chatbot Development",
+            "rs": "499"
+        }
+  ]
+}
